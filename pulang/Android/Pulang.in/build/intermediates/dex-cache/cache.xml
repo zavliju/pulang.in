@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-545ff449e448456d748fe2bb967516c2cb6bae9c.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-99e58847e0905f823f395f81d0ed88f868261d83.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-033c4917739e65c1ab48e8f836633d177775aca4.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-9b91e7f508d225dfe25a6944647b5d74d71e92ec.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-131186c5397bc973c219ac05a923ce5127027ac2.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-1e5057e597cd2df4a409f04960bd91c8ffba10e8.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-android/4.3.5/82edcaec6c7b4599eaeaaf11167ceea41db42f33/httpclient-android-4.3.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="82edcaec6c7b4599eaeaaf11167ceea41db42f33">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/httpclient-android-4.3.5-0c54e5dbf83d6ad8a0b0afc8d348871601d5c7bc.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-3fbe3ef24b0ea7cbe3bc39206bf29c30e1c4e9c4.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-6c9e099d06cd4d0799e6ab1052f3b215785937d9.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-fe21ea2dddfc79b8b3c1f06aaf29578bfff768f1.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-16da65c316806061f0096ab841c87534a44981ca.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-f53a60394223d5189d85dea63d21885cbd9bddcf.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-cbe0aa0472f67fa8a4899ea0f8ad81a426778b5d.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/volley-003d142d9671959aa410365441658da31cc9b9c1.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-6a9eb2d7d8580855002f120a9d8115492749563a.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-7ff75409395315bd6222e7f60ac9b8e033ecbfe6.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-c509311529e94ef962e6b63127e031fb669d90d5.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-ca3815e25c0125c0a6f7745710f1a71d9df13a58.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-2abd105d5f032690bd522ae3bab0070fbcee1371.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-96c9c77cc9d2154f31e1211f8435f9f00b51a7a8.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-edda08efc850308f59a310f577c988b38c145ccd.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-4b6f4d2dd8db1e0449e3b590dc7c7a416a82f3ae.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-27529da0f0aba10bb496e8fc464662d7eeabb089.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-f4cb783741dd6c64cc1f3336ce13ff3e2e1e776f.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-57748b3915614a04c896e80103556b5e32e83e22.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-6b373b62cc84faabe7b71d24a0942610c4bbae72.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-c397ce297eb93beb14351cdaafaea99c8b99481f.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-cebb0cfb26d5fb50e11ab3aee2dc51fe0f2669b7.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-0c5e456ac618555729e739fbdcc0199925895e35.jar" />
+    </item>
+    <item
+        jar="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/home/zetjede/Downloads/Pulang.in/app/build/intermediates/pre-dexed/debug/classes-4f1e3fea50909f3152a0a5d5642627fdaf744a38.jar" />
+    </item>
+
+</items>

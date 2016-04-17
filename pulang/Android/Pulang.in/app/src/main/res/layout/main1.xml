@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.v7.widget.Toolbar
+        style="@style/ToolBarStyle"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="@dimen/abc_action_bar_default_height_material">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     Pulang.in"
+            android:textColor="#ffffff"
+            android:drawableLeft="@drawable/logo"
+            android:textStyle="bold"
+            android:textSize="30dp"/>
+
+    </android.support.v7.widget.Toolbar>
+    <fragment
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        />
+    <LinearLayout
+        android:id="@+id/main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+    <EditText
+        android:id="@+id/user"
+        style="@style/editext_graybg"
+        android:layout_width="160dp"
+        android:layout_height="48dp"
+        android:drawableLeft="@drawable/ic_username"
+        android:hint="From"
+        android:textColorHint="#000000"
+        android:layout_marginLeft="16dp">
+    </EditText>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="OR"
+            android:textSize="20dp"
+            android:textColor="#fcaf51"
+            android:textStyle="bold"/>
+        <Button
+            android:id="@+id/btnReg"
+            style="@style/btn_green_large"
+            android:layout_width="143dp"
+            android:layout_height="30dp"
+            android:text="LOCATE ME"
+            android:layout_marginLeft="@dimen/pad_10dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/main1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+    <EditText
+        android:id="@+id/pwd"
+        style="@style/editext_graybg"
+        android:layout_width="160dp"
+        android:layout_height="48dp"
+        android:drawableLeft="@drawable/ic_username"
+        android:hint="To"
+        android:textColorHint="#000000"
+        android:layout_marginLeft="16dp">
+    </EditText>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="OR"
+            android:textSize="20dp"
+            android:textColor="#fcaf51"
+            android:textStyle="bold"/>
+        <Button
+            android:id="@+id/btnMyPlace"
+            style="@style/btn_green_large"
+            android:layout_width="143dp"
+            android:layout_height="30dp"
+            android:text="MY PLACE"
+            android:layout_marginLeft="@dimen/pad_10dp" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/btnGo"
+        style="@style/btn_orange_large"
+        android:layout_gravity="center"
+        android:layout_width="350dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:layout_height="37dp"
+        android:text="GO!" />
+</LinearLayout>
+
